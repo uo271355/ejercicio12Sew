@@ -1,0 +1,35 @@
+body{
+	box-sizing: border-box;
+    background-color:white;
+    color:black;
+	margin: 25px 50px;
+}
+header{
+	padding:30px;
+	background:#EAEAEA;
+	text-align:center;
+	color:black;
+}
+h2{
+	text-align:center;
+	background:#F0E2C3;
+    color:#F0B025;
+}
+input button{
+	width:220px;
+	height:30px;
+	background-color:#FDFFA4;
+	color:black;
+}
+#errorLectura{
+	color:red;
+}
+#contenidoArchivo{
+	background-color:#CBF994;
+	color:black;
+}
+pre{
+	background-color:#94F9F0;
+	color:black;
+}
+

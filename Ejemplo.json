@@ -1,0 +1,43 @@
+{
+  "coord": {
+    "lon": -1.58,
+    "lat": 47.17
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "cielo claro",
+      "icon": "01d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 12.91,
+    "feels_like": 9.63,
+    "temp_min": 12.78,
+    "temp_max": 13,
+    "pressure": 1016,
+    "humidity": 66
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 3.6,
+    "deg": 140
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1606228960,
+  "sys": {
+    "type": 1,
+    "id": 6574,
+    "country": "FR",
+    "sunrise": 1606202611,
+    "sunset": 1606234986
+  },
+  "timezone": 3600,
+  "id": 2990968,
+  "name": "Arrondissement de Nantes",
+  "cod": 200
+}

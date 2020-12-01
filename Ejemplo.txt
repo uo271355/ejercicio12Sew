@@ -1,0 +1,20 @@
+Tarea 1.
+Escribir un archivo en HTML5 denominado Ejercicio12 (con extensión .html) que referencie a un
+archivo CSS denominado Ejercicio12 (con extensión .css) y también debe referenciar a un
+archivo en JavaScript (extensión .js).
+Se debe escribir una aplicación que use el API FILE de HTML5 que cargue archivos desde la
+máquina cliente y que visualice sus propiedades (tamaño, tipo, etc.).
+En el caso de que se seleccionen archivos de tipo:
+ Texto
+ JSON
+ XML
+Deben mostrarse íntegramente por pantalla.
+El diseño de la presentación se deja libre al estudiante.
+Epílogo. Todas las tareas se presentan en la misma sub-carpeta de PRACTICA-3 denominada
+Ejercicio-12 que debe contener los archivos:
+ Ejercicio12.html
+ Ejercicio12.css
+ Ejercicio12.js
+ Ejemplo.txt
+ Ejemplo.json
+ Ejemplo.xml
